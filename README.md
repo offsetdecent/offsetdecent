@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @offsetdecent
 - 👀 I’m interested in ...FrontEndDevelopment, Security, Data Analysis, Digital Marketing, Photography, Ps
-- 🌱 I’m currently learning ...advanced JavaScript, PHP, SQL, React
+- 🌱 I’m currently learning ...advanced JavaScript & React
 - 💞️ I’m looking to collaborate on ...Recovery App, hidden buttons on websites that lead to games or secret page., learning about data and security
 - 📫 How to reach me ...offsetdecent@gmail.com with any questions, critiques.
 
